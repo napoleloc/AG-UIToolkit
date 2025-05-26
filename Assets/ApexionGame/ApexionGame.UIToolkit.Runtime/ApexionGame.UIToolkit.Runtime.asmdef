@@ -1,0 +1,20 @@
+{
+    "name": "ApexionGame.UIToolkit.Runtime",
+    "rootNamespace": "ApexionGame.UIToolkit.Runtime",
+    "references": [
+        "EncosyTower.Core",
+        "UniTask",
+        "UniTask.Addressables",
+        "Unity.Addressables",
+        "Unity.Collections"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
