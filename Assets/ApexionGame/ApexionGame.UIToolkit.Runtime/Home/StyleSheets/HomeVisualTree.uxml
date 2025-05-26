@@ -1,0 +1,11 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="page-root" style="flex-grow: 1;">
+        <ui:VisualElement name="panel-top" style="flex-grow: 1;">
+            <ui:Button name="button-settings" icon-image="project://database/Assets/EncosyTower/EncosyTower.VisualDebugging/StyleSheets/VisualCommander.tss?fileID=4154780841294389669&amp;guid=41f1d9809422a034aad6415344019cde&amp;type=3#arrow-down" style="left: 50px; width: 50px; height: 50px; font-size: 15px; -unity-font-style: normal; top: 50px; position: relative;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="panel-center" style="flex-grow: 1; flex-direction: column;" />
+        <ui:VisualElement name="panel-bottom" style="flex-grow: 1;">
+            <ui:Button text="Play" name="button-play" style="width: 250px; height: 50px; align-self: center; align-content: auto; font-size: 35px; -unity-font-definition: resource(&apos;DefaultThemeStyleSheet&apos;);" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
